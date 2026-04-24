@@ -20,7 +20,7 @@ This is a solution to the [Shortly URL shortening API Challenge challenge on Fro
 
 This project is a solution to the [Frontend Mentor "Shortly" challenge](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G). It provides a pixel-perfect, responsive implementation of a URL shortening service with API integration.
 
-**Live Demo:** [View Live Demo](#) *(Add your deployed link here)*
+**Live Demo:** [View Live Demo](#) *(url-shortening-app-five.vercel.app)*
 
 ##  Features
 
