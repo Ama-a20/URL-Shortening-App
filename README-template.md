@@ -65,33 +65,6 @@ This project is a solution to the [Frontend Mentor "Shortly" challenge](https://
 - Code editor (VS Code recommended)
 - Live Server extension (optional but recommended)
 
-
-
-### File Structure Setup
-
-shortly-url-shortener/
-├── index.html
-├── style.css
-├── script.js
-├── images/
-│   ├── logo.svg
-│   ├── logo-footer.svg
-│   ├── illustration-working.svg
-│   ├── icon-brand-recognition.svg
-│   ├── icon-detailed-records.svg
-│   ├── icon-fully-customizable.svg
-│   ├── icon-facebook.svg
-│   ├── icon-twitter.svg
-│   ├── icon-pinterest.svg
-│   ├── icon-instagram.svg
-│   ├── bg-shorten-desktop.svg
-│   └── bg-shorten-mobile.svg
-└── README.md
-
-
-
-
-
 ## USage
 
 ### Shortening a URl
